@@ -28,6 +28,9 @@ export const metadata: Metadata = {
   },
   description:
     "Create unlimited ATS-verified resumes and CVs 100% free with BATAPRO. Arabic RTL, French & English support, crisp vector PDF export.",
+  verification: {
+    google: "s9ZOi97EhFx3HT7TZREdigjHPm7k4o1WqXWFL1KwsvU",
+  },
 };
 
 export default async function RootLayout({
